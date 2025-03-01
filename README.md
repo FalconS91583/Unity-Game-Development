@@ -24,7 +24,7 @@ My first game made, the classic and reliable Snake, it all started here, this ga
 ## Survival - 3D Top-Down Action-Shooter
 
 
-## Obstacler - basic obstacle dodge(first Unity6 project)
+## Obstacler - Basic obstacle dodge(first Unity6 project)
 
 
 ## Rocketer - FlappyBird in space
@@ -39,10 +39,10 @@ My first game made, the classic and reliable Snake, it all started here, this ga
 ## Quornk - 3D Sharp Shooter, Queke style
 
 
-## Wheelbarrower - basic tower defence game
+## Wheelbarrower - Basic tower defence game
 
 
-## Wheelbarrower2 - extended version of tower defence
+## Wheelbarrower2 - Extended version of tower defence
 
 
 ## Dilec - TopDown RPG, diablo/Baldur's Gate style
