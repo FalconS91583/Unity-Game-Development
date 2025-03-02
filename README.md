@@ -1,7 +1,7 @@
 # Unity-Game-Development
 Here are my game development history!
 
-List of the game i made in past 1.5year
+### List of the game i made in past 1.5year
 
 ## Chambble - Gamejam LubJam 2025 Game
 Jam Theme - Bubble
