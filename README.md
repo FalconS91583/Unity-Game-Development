@@ -20,23 +20,21 @@ My first game made, the classic and reliable Snake, it all started here, this ga
 My first tutorial on YouTube. I liked this idea and thought I'd give it a try. The tutorial ends with a simple game mode where you cut fruit and you might cut the bomb and you lose. After completing the basic tutorial, I managed to add the fruit ninja 
 Arcade mode features such as slowTime banana, doublePoints banana and increasedFruitsSpawn banana. The code is a mess, but it's my beginner's mess.
 
+### Next 3 games was made as a part of udemy course
 ## GalaxyShooter - 2D spaceShooter with Powerups
-
+Simple old style 2D space shooter where you move left-right and shoot to enemies who coming from the top of the screen. Additional feature is 3 different power ups (shield, speed Boost and triple shoot). 
+Project include some basic UI, effects, audio and postproccesing.
 
 ## Fleca - Cinematrography project
-
+In this project its all about cinemachine. Game containts several more or less complex cutscenes for every moment at the game(first cutscene getting into bank, explainng the rules, win and loose and more). 
+It also covers basic AI movement, win/loose condition, diffrent type of movement rather than besic WSAD and also interactions with game world.
 
 ## Dungeon Escape -2D RPG platformer
-
-
-## Queen's Shadow - More complex 2D RPG
-
-
-## Survival - 3D Top-Down Action-Shooter
-
+2D tilemap created world in the atmosphere of caves. Game covers basic platformer movement to jump between them to kill some enemies to get currency for better gear in merchant. I created 3 types of 
+enemies(basic skeleton, moss giant and toxic spider fires toxic blast). Interactive HUD and some android game basics.
 
 ## Obstacler - Basic obstacle dodge
-First Unity6 project
+First Unity6 project, mini project to get used to Unity6, player try to not get hit by spinning, falling, shooting obstales when traying to get to the finish line.
 
 ## Rocketer - FlappyBird in space
 
@@ -57,6 +55,12 @@ First Unity6 project
 
 
 ## Dilec - TopDown RPG, diablo/Baldur's Gate style
+
+
+## Queen's Shadow - More complex 2D RPG
+
+
+## Survival - 3D Top-Down Action-Shooter
 
 
 ## RDG - Random Dungeon Generator
