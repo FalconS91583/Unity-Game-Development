@@ -37,33 +37,64 @@ enemies(basic skeleton, moss giant and toxic spider fires toxic blast). Interact
 First Unity6 project, mini project to get used to Unity6, player try to not get hit by spinning, falling, shooting obstales when traying to get to the finish line.
 
 ## Rocketer - FlappyBird in space
-
+Rocket flappy bird with moving obstacles and moon like gravity. It's pretty basic projects covering input actions, basic sound, particle system and more.
 
 ## ArgonAssault - SpaceShips timeline shooter
-
+Diffrent type of project beacuse whole projetct was made with timeline and player mission is to shoot enemies through timeline events and listen the story. Environment was made with terrain tools in Unity.
 
 ## Runaway King- Endless runner game
-
+The core mechanics are procedurally generated level with hazardsl, which include benches, carts, rocks, and more. The player must avoid this and get to the checkpoint thanks to the collectable powerups.
 
 ## Quornk - 3D Sharp Shooter, Queke style
-
+Idea behind this project is to make fast action FPS like Quake but the game loop is based on kill all enemies and thier portals. Game contains diffrent types of weapons, pickups also whole ammo system etc. It covers
+lot of core FPS mechanics so hope you like it. Game arena was made in unity probuilder.
 
 ## Wheelbarrower - Basic tower defence game
-
+Type of simple game i want to make from the beginning. Tower Defense game. We all knew rules of these games, its a 2D project so its more like a baby of Bloons TD.
 
 ## Wheelbarrower2 - Extended version of tower defence
-
+An upgrated version of game above, upgrade relies on dynamic path finding from enemies. The have they started path to castle, but if you place tower on thier path thier changed it to new so still can attack the castle.
 
 ## Dilec - TopDown RPG, diablo/Baldur's Gate style
-
+A little bit bigger project with core mechanic similar to etc. Diablo. Top down camera with point click movement. Beside basic mechanic like this type of movement or enemy navmesh movement game include ciematicShoot 
+to show the game, saving system, diffrent types of weapons, abilities and whole character stats system. At the end with good polish.
 
 ## Queen's Shadow - More complex 2D RPG
-
+Definitely one of the most complex project i have made. Compare to previos 2D RPG platformer is on whole different level. This game covers things like:
+->State Machine for both player and enemies, 
+->Tilemap level,
+->Parallax background,
+->Complex attack system with parry,
+->A big skill tree with a lot of diffrent abilities with also special atack, 
+->Stat system,
+->Items and inventory with thier own adding stats,
+->Elemental aliments,
+->Save system with checkpoints,
+->Currency system,
+->Crafting system,
+->Diffrent types of weapons with thier own special behavior,
+->5 types of unique enemies and one BOSS
+and more i probably forgot to mention it here.
+BIG thanks to AlexDev who came up with this course on udemy and i can do it by myself and when get stuck come here for help.
 
 ## Survival - 3D Top-Down Action-Shooter
-
+Another bigger project, this time it a TopDown robotic shooter, while game was made from scratch so things like setup new input system and its whole behavior was made without any template etc. All arm, gun positioning, 
+rag doll was made all by myself. Game covers also thing like:
+->Arleady mention setup of new input system,
+->Gun visuals and animations(mixamo),
+->Whole weapon system with diffrent type of shooting, like single bullet, multi-shot, series,
+->ObjectPool
+->Interactive pickups
+->Diffrent types of enemies, melee and thier variants, range also with variants and 2 types of bosses with thier own abilities,
+->Procedular Level Generator
+->Mission/Quest system
+->Cars
+and even more!.
 
 ## RDG - Random Dungeon Generator
-
+The most difficult project from this period. 
+The difficulty of this project was that for this purpose I created my own custom unity window, which allowed me to create my own type of graph (Room Node Graph), 
+on the basis of which dungeons were later created. This entire process is carried out with a large number of validations to ensure that the created dungeon does not overlap or 
+follows the created rules, e.g. that given rooms can only be connected through a corridor. To fully understand what's going on there, it's best to delve into the scripts.
 
 ## Rouglike gunner 
