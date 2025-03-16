@@ -57,7 +57,7 @@ An upgrated version of game above, upgrade relies on dynamic path finding from e
 
 ## Dilec - TopDown RPG, diablo/Baldur's Gate style
 A little bit bigger project with core mechanic similar to etc. Diablo. Top down camera with point click movement. Beside basic mechanic like this type of movement or enemy navmesh movement game include ciematicShoot 
-to show the game, saving system, diffrent types of weapons, abilities and whole character stats system. At the end with good polish.
+to show the game, saving system, diffrent types of weapons, abilities and whole character stats system. At the end with good polish. Worth to mention, its just  a sceleton of whole game, so sandbox level, not really balanced but it comes with another part of this project
 
 ## Queen's Shadow - More complex 2D RPG
 Definitely one of the most complex project i have made. Compare to previos 2D RPG platformer is on whole different level. This game covers things like:
