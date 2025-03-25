@@ -59,6 +59,10 @@ An upgrated version of game above, upgrade relies on dynamic path finding from e
 A little bit bigger project with core mechanic similar to etc. Diablo. Top down camera with point click movement. Beside basic mechanic like this type of movement or enemy navmesh movement game include ciematicShoot 
 to show the game, saving system, diffrent types of weapons, abilities and whole character stats system. At the end with good polish. Worth to mention, its just  a sceleton of whole game, so sandbox level, not really balanced but it comes with another part of this project
 
+## Dilec - TopDown RPG, diablo/Baldur's Gate style version 2.0
+A new, improved version of this game. Apart from a slight improvement of the previous part, what new features can be found here?
+Several levels of play, an expanded save system, shop support, skills, equipment system, dialogues and challenges. Obvious improvement of the overall game with post-processing and much more to make it an RPG game
+
 ## Queen's Shadow - More complex 2D RPG
 Definitely one of the most complex project i have made. Compare to previos 2D RPG platformer is on whole different level. This game covers things like:
 ->State Machine for both player and enemies, 
@@ -90,6 +94,8 @@ rag doll was made all by myself. Game covers also thing like:
 ->Mission/Quest system
 ->Cars
 and even more!.
+
+## Steampunk Tower Defence
 
 ## RDG - Random Dungeon Generator
 The most difficult project from this period. 
