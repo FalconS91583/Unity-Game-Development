@@ -106,3 +106,4 @@ on the basis of which dungeons were later created. This entire process is carrie
 follows the created rules, e.g. that given rooms can only be connected through a corridor. To fully understand what's going on there, it's best to delve into the scripts.
 
 ## Rouglike gunner 
+Continuation of the RDG project, apart from the previous generation of dungeons, there are also mechanics known from a game like Isaac, only with weapons in hand. The game provides numerous rooms full of enemies, rooms with bosses, or rooms with rewards. The game provides several interesting visual effects that serve as projectiles of enemies. The player has several interesting types of weapons to choose from and more
