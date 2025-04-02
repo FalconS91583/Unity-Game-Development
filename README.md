@@ -96,6 +96,8 @@ rag doll was made all by myself. Game covers also thing like:
 and even more!.
 
 ## Steampunk Tower Defence
+A unique version of the tower defense game. What makes this game unique? So:
+Free user camera, unique visual effects for each tower that fit the steampunk style, custom tower types like a drone machine or a fan. yes, a fan, everything makes sense for any style of play. With unique towers of course comes unique enemies like a flying ship that drops tons of small enemies, a giant spider that can disable your towers and more.
 
 ## RDG - Random Dungeon Generator
 The most difficult project from this period. 
