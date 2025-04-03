@@ -97,7 +97,7 @@ and even more!.
 
 ## Steampunk Tower Defence
 A unique version of the tower defense game. What makes this game unique? So:
-Free user camera, unique visual effects for each tower that fit the steampunk style, custom tower types like a drone machine or a fan. yes, a fan, everything makes sense for any style of play. With unique towers of course comes unique enemies like a flying ship that drops tons of small enemies, a giant spider that can disable your towers and more.
+Free user camera, unique visual effects for each tower that fit the steampunk style, custom tower types like a drone machine or a fan. yes, a fan, everything makes sense for any style of play. With unique towers of course comes unique enemies like a flying ship that drops tons of small enemies, a giant spider that can disable your towers and more. I think that in the field of these games this one have at least one thing that stood out form the other.
 
 ## RDG - Random Dungeon Generator
 The most difficult project from this period. 
@@ -105,5 +105,5 @@ The difficulty of this project was that for this purpose I created my own custom
 on the basis of which dungeons were later created. This entire process is carried out with a large number of validations to ensure that the created dungeon does not overlap or 
 follows the created rules, e.g. that given rooms can only be connected through a corridor. To fully understand what's going on there, it's best to delve into the scripts.
 
-## Rouglike gunner 
+## Rouglike gunner - Pistoll Issac
 Continuation of the RDG project, apart from the previous generation of dungeons, there are also mechanics known from a game like Isaac, only with weapons in hand. The game provides numerous rooms full of enemies, rooms with bosses, or rooms with rewards. The game provides several interesting visual effects that serve as projectiles of enemies. The player has several interesting types of weapons to choose from and more
