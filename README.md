@@ -107,3 +107,5 @@ follows the created rules, e.g. that given rooms can only be connected through a
 
 ## Rouglike gunner - Pistoll Issac
 Continuation of the RDG project, apart from the previous generation of dungeons, there are also mechanics known from a game like Isaac, only with weapons in hand. The game provides numerous rooms full of enemies, rooms with bosses, or rooms with rewards. The game provides several interesting visual effects that serve as projectiles of enemies for example. The player has several interesting types of weapons to choose from and more. It all adds up to a more complex, large project
+
+## Queen's Shadow(new updated version)
