@@ -13,6 +13,9 @@ allow him to create a rescue bubble underneath him. The player is prevented from
 a fan that moves the bubble up and down, a burning kitchen element that kills the player, and flying needles that are the most dangerous for the player. A unique and annoying feature of the game is that the 
 needle can bounce off the bubble and hit the player and kill them.
 
+## Queen's Shadow(new updated version)
+Reworded version of this project. Made fully from scratch on new Unity 6. All of the systems get rework. Starting from Player, who gets a new state machine and some new animations, like jump attack, also previous systems get an update. Next up, enemy with better player detection and more challenging combat with retreat ability. All of this and parry ability makes the new combat system more alive and more natural. New stat system with better understanding and easier setup. Cleaner skill tree with easy system to expand also improvement of old skill developed in last project. Much better inventory (weapon, armor, trinkets, potions) system with tooltips, player consumable items (potions, books, scrolls), and player stats. A new RPG must have systems like crafting, storage, and shops. Fully functional UI, save system, and seen/scene save management. Basic audio. And at the end, 2 new systems that cover more of the RPG system: quests and dialogue. Also, some of the variants of enemy and boss to fight with.
+
 ## Snake - First Project
 My first game made, the classic and reliable Snake, it all started here, this game was part of a university project in my first year.
 
@@ -63,7 +66,7 @@ to show the game, saving system, diffrent types of weapons, abilities and whole 
 A new, improved version of this game. Apart from a slight improvement of the previous part, what new features can be found here?
 Several levels of play, an expanded save system, shop support, skills, equipment system, dialogues and challenges. Obvious improvement of the overall game with post-processing and much more to make it an RPG game
 
-## Queen's Shadow - More complex 2D RPG
+## Queen's Shadow - More complex 2D RPG(OLD VERSION)
 Definitely one of the most complex project i have made. Compare to previos 2D RPG platformer is on whole different level. This game covers things like:
 ->State Machine for both player and enemies, 
 ->Tilemap level,
@@ -79,7 +82,7 @@ Definitely one of the most complex project i have made. Compare to previos 2D RP
 ->Diffrent types of weapons with thier own special behavior,
 ->5 types of unique enemies and one BOSS
 and more i probably forgot to mention it here.
-BIG thanks to AlexDev who came up with this course on udemy and i can do it by myself and when get stuck come here for help.
+
 
 ## Survival - 3D Top-Down Action-Shooter
 Another bigger project, this time it a TopDown robotic shooter, while game was made from scratch so things like setup new input system and its whole behavior was made without any template etc. All arm, gun positioning, 
@@ -107,3 +110,5 @@ follows the created rules, e.g. that given rooms can only be connected through a
 
 ## Rouglike gunner - Pistoll Issac
 Continuation of the RDG project, apart from the previous generation of dungeons, there are also mechanics known from a game like Isaac, only with weapons in hand. The game provides numerous rooms full of enemies, rooms with bosses, or rooms with rewards. The game provides several interesting visual effects that serve as projectiles of enemies for example. The player has several interesting types of weapons to choose from and more. It all adds up to a more complex, large project
+
+
