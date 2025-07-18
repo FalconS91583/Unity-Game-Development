@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 445286926b40fef429a5710f090c7bd9, type: 3}
+  m_Name: List of items - Weapons To Craft
+  m_EditorClassIdentifier: 
+  itemList:
+  - {fileID: 11400000, guid: 24aa51fdbdc891d49889031496380029, type: 2}
+  - {fileID: 11400000, guid: 522e06671bcf73f4db61e33f3c161c58, type: 2}

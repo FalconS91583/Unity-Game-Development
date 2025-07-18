@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2670eebcec42ff24eb55adb0c8599711, type: 3}
+  m_Name: Equipment Data -  Amulet Of Doom
+  m_EditorClassIdentifier: 
+  itemPrice: 100
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 1
+  itemRarity: 708
+  dropChance: 29.3
+  maxDropChance: 70.3
+  itemName: Amulet Of Doom
+  itemIcon: {fileID: -767134238, guid: 79ecf17ad09c451448008510d2850a7a, type: 3}
+  itemType: 3
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipie: []
+  modifiers:
+  - statType: 2
+    value: 10
+  - statType: 4
+    value: 3
+  - statType: 17
+    value: 15
+  - statType: 1
+    value: 2.5

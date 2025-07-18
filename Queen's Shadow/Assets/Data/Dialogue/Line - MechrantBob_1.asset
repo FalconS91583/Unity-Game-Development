@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da2732671a19cda48bc146f2e0420a74, type: 3}
+  m_Name: Line - MechrantBob_1
+  m_EditorClassIdentifier: 
+  dialogueGroupName: Merchant Bob
+  speaker: {fileID: 11400000, guid: cebd3cfc1d7b0d54ebdb809d9a3e278e, type: 2}
+  textLine:
+  - I'm Busy
+  - What's up?
+  - You again?
+  - hehe
+  actionLine: 
+  actionType: 5
+  choiceLines:
+  - {fileID: 11400000, guid: babda278e9f929a488a9e5adab38d353, type: 2}
+  - {fileID: 11400000, guid: 9f4c5f20b9adfaa4d80b6ddecd47d905, type: 2}
+  - {fileID: 11400000, guid: 4e6f3f5be4cbb184095eed421706ea2c, type: 2}

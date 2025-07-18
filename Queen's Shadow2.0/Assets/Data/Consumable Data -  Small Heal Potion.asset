@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4ed9f1adc18ab942b582bb39402eb19, type: 3}
+  m_Name: Consumable Data -  Small Heal Potion
+  m_EditorClassIdentifier: 
+  itemPrice: 100
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 5
+  itemRarity: 121
+  dropChance: 69.7
+  maxDropChance: 69.7
+  itemName: Small Heal Potion
+  itemIcon: {fileID: -510815154, guid: 79ecf17ad09c451448008510d2850a7a, type: 3}
+  itemType: 4
+  maxStackSize: 5
+  itemEffect: {fileID: 11400000, guid: 3ec933a5b2af8f04f846cc3b2adfe964, type: 2}
+  craftRecipie: []

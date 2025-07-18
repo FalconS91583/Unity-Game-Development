@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2670eebcec42ff24eb55adb0c8599711, type: 3}
+  m_Name: Equipment Data -  Draculas Sword
+  m_EditorClassIdentifier: 
+  itemPrice: 100
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 1
+  itemRarity: 957
+  dropChance: 4.4
+  maxDropChance: 100
+  itemName: Draculas Sword
+  itemIcon: {fileID: 386189102, guid: 79ecf17ad09c451448008510d2850a7a, type: 3}
+  itemType: 1
+  maxStackSize: 1
+  itemEffect: {fileID: 11400000, guid: 876e8fe1a7cf17344bce2c315f665793, type: 2}
+  craftRecipie:
+  - itemData: {fileID: 11400000, guid: 24aa51fdbdc891d49889031496380029, type: 2}
+    stackSize: 1
+    itemEffect: {fileID: 0}
+  - itemData: {fileID: 11400000, guid: cf066e2671c03cc45a73d4b637422318, type: 2}
+    stackSize: 1
+    itemEffect: {fileID: 0}
+  modifiers:
+  - statType: 7
+    value: 35
+  - statType: 6
+    value: 0.15
+  - statType: 8
+    value: 0.2
+  - statType: 3
+    value: 6
