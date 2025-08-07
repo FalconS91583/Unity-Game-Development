@@ -16,6 +16,8 @@ needle can bounce off the bubble and hit the player and kill them.
 ## Queen's Shadow(new updated version)
 Reworded version of this project. Made fully from scratch on new Unity 6. All of the systems get rework. Starting from Player, who gets a new state machine and some new animations, like jump attack, also previous systems get an update. Next up, enemy with better player detection and more challenging combat with retreat ability. All of this and parry ability makes the new combat system more alive and more natural. New stat system with better understanding and easier setup. Cleaner skill tree with easy system to expand also improvement of old skill developed in last project. Much better inventory (weapon, armor, trinkets, potions) system with tooltips, player consumable items (potions, books, scrolls), and player stats. A new RPG must have systems like crafting, storage, and shops. Fully functional UI, save system, and seen/scene save management. Basic audio. And at the end, 2 new systems that cover more of the RPG system: quests and dialogue. Also, some of the variants of enemy and boss to fight with.
 
+## DOTS Multiplayer with netcode for entities
+
 ## Snake - First Project
 My first game made, the classic and reliable Snake, it all started here, this game was part of a university project in my first year.
 
