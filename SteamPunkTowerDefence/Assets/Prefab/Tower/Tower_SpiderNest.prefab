@@ -218,18 +218,18 @@ MonoBehaviour:
   currentEnemy: {fileID: 0}
   dynamicTargetChange: 0
   attackCooldown: 2
-  enemyPriorityType: 7
-  towerHead: {fileID: 0}
-  towerBody: {fileID: 0}
-  gunPoint: {fileID: 0}
+  enemyPriorityType: 2
+  towerHead: {fileID: 2106474602857397190}
+  towerBody: {fileID: 8244093880626831877}
+  gunPoint: {fileID: 8555152480848845760}
   rotationSpeed: 10
   attackRange: 2.5
   whatIsEnemy:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 128
   whatIsTargetable:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 128
   towerAttacksForward: 0
   attackSfx: {fileID: 0}
   damage: 15

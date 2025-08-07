@@ -9994,7 +9994,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyType: 5
   centerPoint: {fileID: 4214663812018921920}
-  maxHp: 100
+  maxHp: 4
   currentHp: 4
   turnSpeed: 10
   myWaypoints: []
