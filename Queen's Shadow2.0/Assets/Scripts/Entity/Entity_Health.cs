@@ -39,12 +39,11 @@ public class Entity_Health : MonoBehaviour, IDamagable
 
         healthBar = GetComponentInChildren<Slider>();
 
-        SetupHealth();
-
     }
 
     protected virtual void Start()
     {
+        SetupHealth();
         
     }
 

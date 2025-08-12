@@ -9,6 +9,8 @@ public class Enemy : Entity
     public Entity_Stats stats { get; private set; }
 
     public Enemy_Health health {  get; private set; }
+    public Entity_Combat combat { get; private set; }
+    public Entity_VFX entity_VFX { get; private set; }
     public Enemy_IdleState idleState;
     public Enemy_MoveState moveState;
     public Enemy_AttackState attackState;
@@ -18,6 +20,9 @@ public class Enemy : Entity
     [Header("Battle Details")]
     public float battleMoveSpeed = 3;
     public float attackDistance = 2;
+    public float attackCooldown;
+    public bool canChasePlayer = true;
+    [Space]
     public float battleTimeDuration = 5;
     public float minRetreadDistance = 1;
     public Vector2 retreatVelocity;
@@ -58,6 +63,22 @@ public class Enemy : Entity
         base.Awake();
         health = GetComponent<Enemy_Health>();
         stats = GetComponent<Entity_Stats>();
+
+        combat = GetComponent<Entity_Combat>(); 
+        entity_VFX = GetComponent<Entity_VFX>();
+    }
+
+    public void MakeUntargetable(bool canBeTargeted)
+    {
+        if(canBeTargeted == false)
+            gameObject.layer = LayerMask.NameToLayer("UnTargetAble");
+        else
+            gameObject.layer = LayerMask.NameToLayer("Enemy");
+    }
+
+    public virtual void SpecialAttack()
+    {
+
     }
 
     public override void StopSlowDown()
@@ -95,6 +116,11 @@ public class Enemy : Entity
             player = PlayerDetection().transform;
 
         return player;
+    }
+
+    public void DestoyObject(float delay = 10)
+    {
+        Destroy(gameObject, delay);
     }
 
     protected override void Update()
