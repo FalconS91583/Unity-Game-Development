@@ -6,7 +6,9 @@ Here are my game development history!
 ## Currently working on
 Fast pace up FPS with agile movement
 
-## Chambble - Gamejam LubJam 2025 Game
+## Mask In - GlobalGamejam - LubJam 2026 Game
+
+## Chambble - GlobalGamejam - LubJam 2025 Game
 Jam Theme - Bubble
 I made an endless runner game, but in 2D. 
 Due to a slight delay, I made the game myself, which is why there is no music in it, but I made all the graphics by myself except the background and main menu posters. 
