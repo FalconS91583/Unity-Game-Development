@@ -7,6 +7,20 @@ Here are my game development history!
 Fast pace up FPS with agile movement
 
 ## Mask In - GlobalGamejam - LubJam 2026 Game
+A fast-paced rouge-like, masks is your adventage.
+
+Game include 4 types of normal enemy & 2 bosses to fight with. 
+After each battle round player can choose one of two random masks with bonuses like increased dash lemgth or decreased cooldown and others.
+Each mask have thier own special color, after mask is choosen, player get that color so enmies with same color can't attack him. They start to be passive til you use dash, when your're exposed and everyone attack you.
+
+Logic is simple, dash(space) you deal damage, without dash, enemies damge you.
+
+made in 48 hours as a part of LubJam 2026
+
+Game Controls
+WASD — Move
+
+Space — Dash
 
 ## Chambble - GlobalGamejam - LubJam 2025 Game
 Jam Theme - Bubble
