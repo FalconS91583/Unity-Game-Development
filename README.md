@@ -3,8 +3,59 @@ Here are my game development history!
 
 ### List of the game i made in past 2year
 
-## Currently working on
-Fast pace up FPS with agile movement
+## Falcon Spike - Personal Big Project
+# Falcon Spike (Work in Progress)
+
+Fast-paced single-player looter shooter with RPG progression systems, focused on responsive movement, modular combat, and scalable gameplay architecture.
+
+### Core Features
+
+#### Movement System
+Implemented a modular locomotion system enabling smooth transitions between multiple movement states, including:
+- walking, running, sliding, and wall jumping  
+- advanced wall jump mechanics allowing directional rebounds  
+- grappling hook system for dynamic traversal and vertical gameplay  
+
+The system is designed around a shared momentum pipeline to ensure fluid and responsive player control.
+
+#### Combat System
+Developed a modular, data-driven weapon system inspired by modern FPS games:
+- multiple weapon types  
+- procedural recoil and spread systems  
+- ADS (aim-down-sights) mechanics  
+- extensible architecture for adding new weapon behaviors  
+
+#### RPG & Progression Systems
+Designed and implemented layered RPG mechanics:
+- expanded stat system inspired by Souls-like games  
+- elemental damage types: fire, ice, lightning, acid, radiation, and magnetism  
+- status effects integrated into the combat pipeline  
+- skill tree system for upgrading abilities and enhancing playstyles  
+
+### Additional progression includes:
+- item-based stat modifiers  
+- special effects that influence survivability and combat outcomes  
+- crafting system to give purpose to looting and resource management  
+
+#### AI & Enemies
+Created multiple enemy archetypes with increasing gameplay complexity:
+- melee, ranged, and boss enemies  
+- multiple variants per enemy type (e.g. aggressive melee, fast attacker, hybrid ranged units)  
+- bosses featuring multi-phase encounters with evolving abilities  
+
+#### UI System
+Implemented a responsive, real-time UI system providing:
+- combat feedback  
+- player stats and status effects  
+- inventory and progression interfaces  
+
+#### Technical Highlights
+- Built in Unreal Engine 5 using C++ and Blueprints  
+- Strong focus on modular and scalable system design  
+- Heavy use of 3D math for movement and gameplay mechanics  
+
+#### Status
+Project is currently in active development with additional features and systems planned.
 
 ## Mask In - GlobalGamejam - LubJam 2026 Game
 A fast-paced rouge-like, masks is your adventage.
@@ -36,6 +87,14 @@ needle can bounce off the bubble and hit the player and kill them.
 Reworded version of this project. Made fully from scratch on new Unity 6. All of the systems get rework. Starting from Player, who gets a new state machine and some new animations, like jump attack, also previous systems get an update. Next up, enemy with better player detection and more challenging combat with retreat ability. All of this and parry ability makes the new combat system more alive and more natural. New stat system with better understanding and easier setup. Cleaner skill tree with easy system to expand also improvement of old skill developed in last project. Much better inventory (weapon, armor, trinkets, potions) system with tooltips, player consumable items (potions, books, scrolls), and player stats. A new RPG must have systems like crafting, storage, and shops. Fully functional UI, save system, and seen/scene save management. Basic audio. And at the end, 2 new systems that cover more of the RPG system: quests and dialogue. Also, some of the variants of enemy and boss to fight with.
 
 ## DOTS Multiplayer with netcode for entities
+A simple project demonstrating an alternative approach to Unity game development using ECS (Entity Component System) with a focus on multiplayer logic.
+- Implemented gameplay systems using Unity ECS / DOTS  
+- Designed basic multiplayer logic with scalable architecture in mind  
+- Demonstrates performance-oriented programming patterns  
+- Showcases separation of data and behavior for better system organization  
+
+## Purpose
+The project serves as a technical exploration of ECS-based architecture and its advantages in building efficient and scalable multiplayer systems.
 
 ## Snake - First Project
 My first game made, the classic and reliable Snake, it all started here, this game was part of a university project in my first year.
