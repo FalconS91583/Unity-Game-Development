@@ -50,7 +50,6 @@ Implemented a responsive, real-time UI system providing:
 - inventory and progression interfaces  
 
 #### Technical Highlights
-- Built in Unreal Engine 5 using C++ and Blueprints  
 - Strong focus on modular and scalable system design  
 - Heavy use of 3D math for movement and gameplay mechanics  
 
